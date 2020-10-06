@@ -1,0 +1,53 @@
+PODS:
+  - agora_rtc_engine (3.1.2):
+    - AgoraRtcEngine_iOS_Crypto (= 3.1.2)
+    - Flutter
+  - AgoraRtcEngine_iOS_Crypto (3.1.2)
+  - Flutter (1.0.0)
+  - path_provider (0.0.1):
+    - Flutter
+  - permission_handler (3.3.0):
+    - Flutter
+  - url_launcher (0.0.1):
+    - Flutter
+  - webview_media (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - agora_rtc_engine (from `.symlinks/plugins/agora_rtc_engine/ios`)
+  - Flutter (from `Flutter`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+  - webview_media (from `.symlinks/plugins/webview_media/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AgoraRtcEngine_iOS_Crypto
+
+EXTERNAL SOURCES:
+  agora_rtc_engine:
+    :path: ".symlinks/plugins/agora_rtc_engine/ios"
+  Flutter:
+    :path: Flutter
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+  webview_media:
+    :path: ".symlinks/plugins/webview_media/ios"
+
+SPEC CHECKSUMS:
+  agora_rtc_engine: 32048a28e704409db84405224cfda55037f46f09
+  AgoraRtcEngine_iOS_Crypto: 42a7a2142317c588f1b5c2e74b98fd01d73f8f60
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  permission_handler: 67637977b227d62d46bfbf524f335f8568de5a73
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+  webview_media: 33604c2c1805f41bd0c6749c4d7de24b8cb4d81d
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.8.4
